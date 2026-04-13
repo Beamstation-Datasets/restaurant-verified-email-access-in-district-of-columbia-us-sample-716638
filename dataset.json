@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in District of Columbia, US",
+  "export_job_id": "7f9e2d4a-0ab3-4c97-91be-6d0ed79357fd",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 716638,
+  "location_name": "District of Columbia",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-district-of-columbia-us-sample-716638",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/716638/beamstation_716638_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_pct": 9.93,
+  "sample_records": 120,
+  "sample_sha256": "59bd49bd2d24c4b1d9065ced0707ca6096a2ebe2c5e34bd6062b5d215ed1f5ce",
+  "sample_size_bytes": 497517,
+  "total_records": 1209,
+  "updated_at": "2026-04-08T00:11:21.524506+00:00"
+}
