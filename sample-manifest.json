@@ -1,0 +1,12 @@
+{
+  "export_job_id": "7f9e2d4a-0ab3-4c97-91be-6d0ed79357fd",
+  "id_short": 716638,
+  "published_at": "2026-04-13T07:38:09Z",
+  "repo_name": "restaurant-verified-email-access-in-district-of-columbia-us-sample-716638",
+  "sample_asset_name": "beamstation_716638_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/716638/beamstation_716638_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_records": 120,
+  "sample_sha256": "59bd49bd2d24c4b1d9065ced0707ca6096a2ebe2c5e34bd6062b5d215ed1f5ce",
+  "sample_size_bytes": 497517,
+  "total_records": 1209
+}
