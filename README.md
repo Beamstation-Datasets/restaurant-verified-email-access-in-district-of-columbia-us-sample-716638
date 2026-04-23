@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in District of Columbia, US
 
-> Free BeamStation sample export with 117 rows and masked direct-contact fields.
+> Free BeamStation sample export with 110 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `716638` |
 | Location | District of Columbia |
 | Category | Restaurants |
-| Full dataset size | 1,172 records |
-| Free sample size | 117 records (9.98%) |
-| Last export | 2026-04-15T05:54:36.917856+00:00 |
+| Full dataset size | 1,108 records |
+| Free sample size | 110 records (9.93%) |
+| Last export | 2026-04-22T11:45:52.691978+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-district-of-columbia-us-sample-716638/releases/download/sample-latest/beamstation_716638_restaurants-us-dc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
